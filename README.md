@@ -738,5 +738,4 @@ Merging is a crucial part of team collaboration in software development. As the 
 - Always create a new branch for each change.
 - Write clear commit messages.
 - Make sure to run tests before submitting a PR.
-- Stay up-to-date with the main branch to avoid conflicts..
-
+- Stay up-to-date with the main branch to avoid conflicts.
